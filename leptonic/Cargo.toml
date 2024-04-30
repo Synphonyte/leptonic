@@ -18,7 +18,7 @@ build = "build.rs"
 anyhow = "1.0.79"
 cargo_toml = "0.19.1"
 lazy_static = "1.4.0"
-leptonic-theme = { version = "0.5", path = "../leptonic-theme" }
+leptonic-theme = { version = "0.6", path = "../leptonic-theme" }
 leptos-tiptap-build = { version = "0.2.6", optional = true }
 
 [dependencies]
@@ -27,7 +27,7 @@ indexmap = "2.2.2"
 indoc = "2.0.4"
 itertools = "0.12.1"
 js-sys = "0.3.68"
-leptos = "0.6.5"
+leptos = "0.6.9"
 leptos_reactive = "0.6.5"
 leptos-tiptap = { version = "0.7.0", optional = true }
 leptos-use = { version = "0.10.2", features = ["math"] }
